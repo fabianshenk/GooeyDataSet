@@ -1,0 +1,501 @@
+id,name,rating,zipcode,prices
+0,The Parish,4.5,85704,$$
+1,Tito & Pep,4.5,85712,$$
+2,Commoner & Co.,4.0,85750,$$
+3,Snooze A M Eatery,4.5,85716,?
+4,Noodleholics,4.5,85716,$$
+5,Street- Taco and Beer Co.,4.5,85701,$
+6,Culinary Dropout,4.0,85716,$$
+7,Wildflower,4.0,85704,$$
+8,Vivace,4.0,85718,$$$
+9,Postino Grant,4.5,85716,$$
+10,Holy Smokin Butts BBQ,4.5,85710,$$
+11,eHotPot,4.5,85705,?
+12,North Italia,4.0,85718,$$
+13,Churrasco de Brasil,4.5,85705,$$$
+14,Zayna Mediterranean,4.5,85712,$$
+15,Charro Steak,4.0,85701,$$$
+16,Silver Saddle Steakhouse,4.0,85713,$$
+17,Contigo Latin Kitchen,4.0,85718,$$
+18,Pirata Luchi,4.0,85711,?
+19,Chef Alisah's,4.5,85704,$$
+20,Stackd on Congress,4.0,85701,?
+21,El Chinito Gordo,4.5,85705,$$
+22,Serial Grillers,4.5,85712,$$
+23,Firebirds Wood Fired Grill,4.0,85718,$$
+24,Union Public House,3.5,85718,$$
+25,Tumerico,5.0,85716,$$
+26,Kimchi Time,4.0,85716,$$
+27,Wild Garlic Grill,3.5,85718,$$
+28,Opa's Best Greek American Cuisine,4.5,85711,$$
+29,HUB Restaurant & Ice Creamery,4.0,85701,$$
+30,Istanbul Mediterranean Cuisine & Bar,4.0,85716,$$
+31,Inca's Peruvian Cuisine,4.0,85750,$$
+32,Raijin Ramen,4.0,85716,$$
+33,Feast,4.0,85716,$$
+34,Mi Nidito Restaurant,4.0,85713,$$
+35,The Drunken Chicken,4.0,85705,$$
+36,Indian Twist,4.5,85712,$$
+37,Solid Grindz,4.5,85711,$
+38,Charro del Rey,4.0,85701,$$
+39,Polish Cottage,4.0,85711,$$
+40,Divine Bovine Burgers,4.5,85711,$$
+41,Chef Wang,4.0,85705,$$
+42,Angry Crab Shack & BBQ,3.5,85745,$$
+43,Potwhale,4.5,85719,$$
+44,Fiamme Pizza,4.5,85718,$$
+45,Copper Rock Craft Eatery,4.0,85711,$$
+46,Daisy Mae's Steakhouse,4.0,85745,$$
+47,Ikkyu,4.5,85704,$$
+48,Le Rendez-vous,4.0,85716,$$$
+49,Fleming’s Prime Steakhouse & Wine Bar,4.5,85718,$$$
+50,The Boxyard,4.0,85705,$$
+51,Pho Ngan,4.5,85712,?
+52,7 Ounce Korean Steakhouse,3.5,85712,$$
+53,Cafe Poca Cosa,4.0,85701,$$
+54,JPS Seafood Market & Restaurant,4.5,85706,$$
+55,Barrio Brewing,4.0,85719,$$
+56,Downtown Kitchen + Cocktails,4.0,85701,$$$
+57,Dante's Fire,4.0,85716,$$
+58,Momo's,4.5,85719,?
+59,Rollies Mexican Patio,4.5,85714,$
+60,Graze Premium Burgers,4.5,85716,$$
+61,The Quesadillas,4.5,85712,$
+62,The Blind Pig,4.0,85719,?
+63,El Rustico,4.5,85705,?
+64,Scordato's Pizzeria,4.0,85704,$$
+65,Smokey Mo,4.5,85719,$$
+66,Queen Sheba,4.5,85712,$
+67,Charro Vida,4.0,85704,$$
+68,American Eat Company,4.0,85713,$$
+69,Kingfisher Bar & Grill,4.0,85716,$$
+70,Kens Hardwood Barbecue,4.5,85711,$$
+71,KOGI Korean BBQ,4.0,85712,$$
+72,Jun Dynasty Chinese Restaurant,4.0,85716,$$
+73,Lovin' Spoonfuls Vegan Restaurant,4.0,85719,$$
+74,Reilly Craft Pizza & Drink,4.0,85701,$$
+75,Selena's Salvadorian,4.5,85719,$
+76,Zinburger,4.0,85718,$$
+77,Kazoku,4.5,85712,$$
+78,The Canyon's Crown,4.0,85715,$$
+79,Agustin Kitchen,3.5,85745,$$
+80,Villa Peru,4.0,85718,$$
+81,Renee's Organic Oven,4.5,85715,$$
+82,Bai Thong,4.0,85712,$$
+83,Bernie's Bagels,4.5,85713,?
+84,El Charro Cafe,3.5,85701,$$
+85,Trident Grill,4.0,85719,$$
+86,Cheddar's Scratch Kitchen,3.5,85716,$$
+87,Monkey Burger,4.0,85711,$$
+88,Sentinel Peak Brewing Company,4.0,85712,$$
+89,Alexandria’s Pearl,4.0,85705,$$
+90,Posto Sano Foods,4.5,85718,$$
+91,Ten55 Brewing Company,4.0,85701,$$
+92,Blanco Tacos + Tequila,3.5,85718,$$
+93,Toro Loco,4.0,85710,$
+94,BBQ Rush Restaurant,4.0,85706,$$
+95,Prep & Pastry,4.5,85719,$$
+96,Urban Pita,4.5,85701,$$
+97,ATL Wings - Tucson,4.0,85705,?
+98,Kukai,4.0,85745,$$
+99,Mian Sichuan,4.5,85705,$$
+100,Calle Tepa,4.0,85711,$
+101,Reforma Modern Mexican. Mezcal + Tequila,3.5,85718,$$
+102,Shish Kebab House of Tucson,4.0,85711,$$
+103,Miss Saigon,4.0,85719,$
+104,The Cheesecake Factory,3.5,85705,$$
+105,Jewel’s Noodle Kitchen,4.5,85712,$
+106,Senae Thai Bistro,4.0,85701,$$
+107,Pizza Luna,4.5,85712,$$
+108,Asian Sofrito,4.5,85719,$$
+109,Zemam's,4.5,85716,$$
+110,The Neighborhood,4.0,85711,$$
+111,Mariscos Chihuahua,4.5,85745,$$
+112,Alafia West African Cuisine,4.5,85711,$$
+113,Diablo Burger,4.0,85701,$$
+114,Com Tam Thuan Kieu,4.0,85704,$$
+115,Toss-Fried Chicken and Ramen,4.0,85711,?
+116,Sullivan's Steakhouse,3.5,85718,$$$
+117,Korea House,4.0,85712,$$
+118,Zinburger,4.0,85715,$$
+119,Ceres,4.5,85701,?
+120,Tamarind,4.0,85741,$$
+121,Pappoule's,4.0,85741,$
+122,HiFalutin,4.0,85704,$$
+123,Jonathan's Cork,4.0,85715,$$$
+124,El Güero Canelo,4.0,85705,$
+125,Lindy's On 4th,3.5,85705,$$
+126,Kung Fu Noodle,4.0,85719,$$
+127,Vero Amore - Swan,4.0,85712,$$
+128,O Sushi Restaurant,4.5,85712,$$
+129,Trident Grill II,4.0,85712,$$
+130,JA Ramen Curry,4.0,85719,$$
+131,Dolce Vita,4.0,85719,$$
+132,Sher-e-Punjab,4.0,85719,$$
+133,The Flying V Bar & Grill,4.0,85750,$$$
+134,Veg Box,5.0,85716,?
+135,El Antojo Poblano,5.0,85745,$
+136,El Charro Cafe,3.5,85750,$$
+137,Za’atar Mediterranean Restaurant & Bakery,4.0,85716,$$
+138,Boca Tacos Y Tequila,3.5,85705,$$
+139,Nick's Sari-Sari Store,4.0,85711,$
+140,Taqueria Juanitos,4.5,85705,$
+141,D's Island Grill JA,4.5,85716,$$
+142,Guadalajara Original Grill,4.0,85719,$$
+143,Ha Long Bay,4.0,85715,$$
+144,Bison Witches Bar & Deli,4.0,85705,$$
+145,"Brother John's Beer, Bourbon & BBQ",3.0,85705,$$
+146,Wings & Rice,4.0,85712,$$
+147,Seis Kitchen,4.0,85718,$$
+148,Bacio Italiano,4.0,85719,$$
+149,Restaurante y Cenaduría El Quino,5.0,85714,?
+150,El Berraco,4.0,85719,$$
+151,Fatman Kitchen,4.0,85719,$$
+152,Ermanos Craft Beer & Wine Bar,4.0,85705,$$
+153,Two Boots BBQ Shop,4.0,85713,?
+154,Anello,4.5,85705,$$
+155,Yard House,3.5,85711,$$
+156,C.I. Chu's Mongolian Barbeque,3.5,85711,$$
+157,Obon Sushi Bar Ramen,4.0,85701,$$
+158,China Pasta House,4.0,85719,$
+159,Trattoria Pina,4.0,85718,$$
+160,El Guero Canelo,4.0,85706,$
+161,Primo with Patio Dining,3.5,85745,$$$
+162,Caffe Torino,4.0,85750,$$
+163,The Tasteful Kitchen,4.5,85705,$$
+164,Caffe Milano,4.0,85701,$$
+165,Beaut Burger,4.0,85745,$$
+166,Ginza Sushi,4.5,85750,$$$
+167,P.F. Chang's,3.5,85718,$$
+168,Time Market,4.0,85705,$$
+169,Elliott's On Congress,4.0,85701,$$
+170,Roma Imports,4.5,85719,$
+171,Rocco's Little Chicago,4.0,85716,$$
+172,Serial Grillers,4.0,85704,$$
+173,Pho Can Tho,4.0,85719,$$
+174,Taqueria El Pueblito,4.5,85719,$
+175,Frankie's South Philadelphia Cheesesteak,4.5,85719,$$
+176,Tutuli's Sonoran Hotdogs,5.0,85757,?
+177,CeeDee Jamaican Kitchen,3.5,85712,$$
+178,Tumerico On 4th Ave,4.5,85705,?
+179,Seis Kitchen,4.5,85745,$$
+180,Cocteleria La Palma Mariscos Y Mas,5.0,85701,$
+181,Barista Del Barrio,5.0,85745,$
+182,Truland Burgers & Greens,4.0,85704,$$
+183,The Horseshoe Grill,3.5,85710,$$
+184,Samurai,4.5,85705,$
+185,the Glowbal,4.0,85712,$$
+186,Texas Roadhouse,4.0,85711,$$
+187,La Botana Tacos,4.0,85719,$$
+188,Janos At The Temple,4.5,85701,?
+189,Bombolé,4.5,85701,?
+190,Dickman's Meat and Deli,4.5,85704,$$
+191,Fini's Landing,3.5,85718,$$
+192,Tavolino Ristorante Italiano,3.5,85718,$$
+193,Aqui Con El Nene,4.5,85705,$
+194,El Corral,3.0,85718,$$
+195,Catalina Barbeque Co. & Sports Bar,3.5,85745,$$
+196,Pho #1,4.0,85705,$
+197,Pita Jungle,3.5,85711,$$
+198,Piazza Gavi,3.5,85750,$$
+199,Salsa Verde Restaurant,4.5,85710,$$
+200,Elvira's,3.5,85701,$$
+201,Vina Vietnamese Street Food,4.0,85705,$
+202,Falora,4.5,85716,$$
+203,China Szechwan,4.0,85719,$$
+204,La Cocina,4.5,85701,$$
+205,Kiss Of Smoke BBQ,4.5,85719,$$
+206,Tucson Tamale,4.0,85704,$$
+207,Lin's Grand Buffet,3.0,85713,$$
+208,Proof Artisanal Pizza & Pasta,4.0,85718,$$
+209,La Chaiteria,4.5,85745,?
+210,Arizona Inn,4.0,85719,$$$
+211,Greek House,4.0,85719,$
+212,Pastiche,3.5,85719,$$
+213,Takamatsu,3.0,85712,$$
+214,Planet of the Crepes,4.5,85745,$
+215,Tacos Apson,4.5,85713,$
+216,Guilin Chinese Restaurant,4.0,85711,$
+217,Govindas Natural Foods Buffet,4.0,85719,$$
+218,The Hidden Grill2go,5.0,85750,?
+219,Bronx BBQ - BXQ,4.0,85705,?
+220,Mama's Hawaiian Bar-B-Cue,3.0,85719,$
+221,BJ's Restaurant & Brewhouse,3.0,85711,$$
+222,Wilhelm Family Vineyards Tasting & Tapas at Ventana,3.5,85750,?
+223,Outback Steakhouse,3.0,85712,$$
+224,El Sur Restaurant,4.0,85711,$
+225,Oregano's,3.5,85712,$$
+226,Gentle Ben's,3.5,85719,$$
+227,HighWire Lounge,4.0,85701,$$
+228,Los Chipilones,4.5,85701,?
+229,Broadway Pizza Cafe,4.5,85711,$
+230,BK Tacos,4.0,85719,$$
+231,Maru Japanese Noodle Shop,3.5,85745,$$
+232,Kon Tiki Restaurant & Lounge,3.5,85711,$$
+233,Prep & Pastry on Grant,4.5,85715,$$
+234,RA Sushi Bar Restaurant,3.5,85718,$$
+235,Caravan Grill,4.5,85716,$
+236,Panda House,4.0,85719,$$
+237,5 Points Market & Restaurant,4.5,85701,$$
+238,Sushi Lounge,4.0,85714,$$
+239,Jerusalem Market & Restaurant,4.5,85711,?
+240,Poco & Moms Cantina,4.0,85715,$$
+241,Mr. An's Teppan Steak & Seafood Sushi Bar,3.5,85704,$$
+242,Baja Cafe,4.5,85710,$$
+243,Gusto Osteria,4.0,85715,$$
+244,La Indita,4.0,85705,$$
+245,Monsoon Chocolate,4.5,85713,$$
+246,Zona 78,4.0,85715,$$
+247,Taqueria Pico De Gallo,4.0,85713,$
+248,Mei Mei,4.0,85745,$
+249,Cafe Desta,4.5,85701,$$
+250,Mamas Hawaiian BBQ,3.5,85715,$$
+251,The Grill at Hacienda Del Sol,3.5,85718,$$$
+252,Miss Saigon,4.0,85711,$$
+253,Humble Pie,3.0,85718,$$
+254,Carnitas los Gordos,5.0,85711,?
+255,Cafe Santa Rosa,4.5,85713,$
+256,IOU Sushi IV,4.0,85705,$$
+257,Fronimo's Greek Cafe,4.0,85716,$
+258,Karuna's Thai Plate,3.5,85719,$
+259,BJ's Restaurant & Brewhouse,3.5,85705,$$
+260,Guadalajara Original Grill,3.5,85704,$$
+261,Rigo's Restaurant,4.0,85713,$$
+262,Buffalo Wings,4.0,85745,?
+263,Yoshimatsu Japanese Eatery,3.5,85719,$$
+264,Pita Jungle,3.5,85704,$$
+265,Sushi Garden,3.0,85716,$$
+266,Saffron Indian Bistro,4.0,85704,$$
+267,Exo Bar,4.5,85705,?
+268,La Botonas,4.0,85712,?
+269,Texas Roadhouse,3.5,85714,$$
+270,Berry Salads,4.0,85711,?
+271,Miss Saigon,4.0,85701,$$
+272,Sushi Zona,4.0,85750,$$
+273,Sky Dragon,3.5,85719,$$
+274,Little Anthony's Diner,4.0,85710,$$
+275,Oregano's,3.5,85704,$$
+276,Wok Fire & Grill,4.0,85719,?
+277,The Royal Room,4.0,85705,$$
+278,Tucson Tamale Company,4.0,85715,$
+279,Nook,4.0,85701,$$
+280,Guadalajara Fiesta Grill,3.0,85710,$$
+281,Tacos Apson,4.0,85741,?
+282,El Chimichangon,4.0,85711,?
+283,Sushi Cortaro On River,4.0,85704,$$
+284,Ba-Dar,4.0,85710,$$
+285,The B-Line,4.0,85705,$$
+286,Beyond Bread,4.0,85719,$$
+287,Kebab King,4.0,85705,$
+288,Babylon Market,4.5,85712,$
+289,Karichimaka Restaurant,4.0,85746,$$
+290,Pinnacle Peak,3.5,85715,$$
+291,Slice & Ice,4.0,85745,$
+292,Ensenada Street Food,4.5,85706,$
+293,47 Scott,4.0,85701,$$
+294,Izumi,3.5,85716,$$
+295,The Little One,4.5,85701,$$
+296,Azian Restaurant Sushi & Korean BBQ,3.0,85711,$$
+297,Club Congress,4.0,85701,$$
+298,Caruso's,3.5,85705,$$
+299,Trident Grill III,3.5,85711,$$
+300,Yamato,4.0,85719,$$
+301,Sonoran Brunch Company,4.5,85710,$
+302,Carnitas La Yoca,4.5,85713,$
+303,GRINGO grill + cantina,3.5,85704,$$
+304,Choice Greens,4.0,85716,$$
+305,Med Cuisine,4.5,85711,?
+306,Canyon Cafe,4.0,85750,$$$
+307,Jimmy's Pita & Poke,4.5,85741,$$
+308,Welcome Diner,4.0,85719,$$
+309,1702,4.0,85719,$$
+310,Cielos,4.0,85711,$$$
+311,Sausage Shop Meat Market and Deli,4.5,85705,$
+312,Bazil's,3.5,85718,$$
+313,Dickman's Meat & Deli,4.0,85710,$
+314,Birrieria Guadalajara,4.0,85713,$
+315,El Perro Loco,5.0,85713,$
+316,New Asia Chinese Restaurant,4.0,85745,$
+317,Teresa's Mosaic Cafe,3.0,85745,$$
+318,Thai China Bistro,3.5,85712,$
+319,Sullivan's Eatery and Creamery,4.0,85704,$
+320,W XYZ Bar,4.0,85719,$$
+321,Los Olivos,4.5,85745,$
+322,Raising Cane’s Chicken Fingers,3.5,85716,$
+323,Toss,4.5,85711,?
+324,Risky Business,3.5,85750,$$
+325,Sushi On Oracle,4.5,85704,$$
+326,Anita Street Market,4.5,85705,$
+327,Bangkok Cafe,3.0,85716,$$
+328,Azul Restaurant and Lounge,3.5,85718,$$$
+329,Craft Republic,3.5,85741,$$
+330,The curry pot - srilankan fusion foodtruck,4.5,85706,$$
+331,The Dutch Eatery & Refuge,3.5,85719,$$
+332,Stack’s Culinary Creations,5.0,85707,?
+333,Guiseppe's Ristorante Italiano,3.5,85704,$$
+334,European Market & Deli,4.0,85712,$
+335,Mariscos Baja Mar,5.0,85705,?
+336,Baja Cafe on Campbell,4.5,85719,$$
+337,Claim Jumper Restaurant & Saloon,3.0,85716,$$
+338,Hana Tokyo,3.5,85706,$$
+339,Fish Wok,3.5,85716,?
+340,El Minuto Cafe,3.5,85701,$$
+341,Graze,4.0,85711,$$
+342,Mama Louisa's,3.5,85711,$$
+343,El Sushi de Papá,4.5,85714,?
+344,Oregano's,3.5,85714,$$
+345,Kappy's Bar & Sandwich Place,4.0,85712,$
+346,QuikTrip,4.0,85719,$
+347,E. River Bar,4.5,85750,$$
+348,Los Mezquites,5.0,85746,?
+349,Original Cuisine,4.0,85719,?
+350,Foxy Roxy's Chicken 'n Cone,4.0,85711,?
+351,Surly Wench Pub,4.0,85705,$
+352,Sausage Deli,4.0,85719,$
+353,Pat's Drive In,3.5,85745,$
+354,Empire Pizza & Pub,4.0,85701,$
+355,Whataburo On 4th,4.0,85705,$
+356,Rusty's Family Restaurant & Sports Grille,3.5,85745,$$
+357,Illegal Pete's - Tucson,3.5,85719,$$
+358,BrushFire BBQ,3.5,85719,$$
+359,Bistro 44,3.5,85715,$$
+360,Kababeque Indian Grill,3.5,85719,$
+361,4 Seasons,4.5,85705,$
+362,Chef Chic,5.0,85711,?
+363,Gandhi Cuisine of India,4.0,85705,$
+364,Mystery & Magic Dinner Theater Playhouse,3.0,85718,$$$$
+365,Nevada Smith's Saloon,3.5,85705,$
+366,Mariscos Mi Mazatlan,4.0,85711,$$
+367,El Guero Canelo,4.0,85711,$
+368,El Torero,4.0,85713,$
+369,Bianchi's Italian,3.0,85745,$$
+370,El Taco Tote,3.5,85704,$
+371,Taco Fish,4.5,85714,$
+372,Raptor Canyon Cafe,5.0,85701,?
+373,Sushison Tucson,4.0,85713,?
+374,Fresco Pizzeria,4.0,85716,$$
+375,Sonoran Mexican Cuisine,4.0,85714,?
+376,TallBoys,4.0,85705,$$
+377,Trident Grill IV,3.5,85741,$$
+378,St Mary's Mexican Food,4.0,85745,$
+379,Outlaw Saloon,4.5,85705,$
+380,Cafe Botanica,4.0,85712,$$
+381,El Taco Tote,4.0,85712,$
+382,Frog & Firkin,3.5,85719,$$
+383,Filiberto's,5.0,85715,?
+384,Saigon Pho,3.0,85719,$
+385,Sonoran Delights,4.0,85745,$
+386,LongHorn Steakhouse,3.5,85705,$$
+387,Sushi-Cho,4.0,85719,$$
+388,Sushi-Ten,3.5,85712,$$
+389,Blue Willow Restaurant & Gift Shop,4.0,85719,$$
+390,Crispy's Fish-n-Chips,3.5,85719,$
+391,Wings Over Broadway,3.5,85711,$
+392,Walter’s Pizzeria,5.0,85713,?
+393,Brothers Noodles,3.5,85712,$
+394,Peking Palace,4.0,85710,$
+395,Years Asian Bistro & BBQ,3.0,85705,?
+396,El Perrito Sonoran Hot Dogs,5.0,85714,?
+397,S. Antojitos Salvadoreños,4.5,85746,?
+398,Pelio Grill,3.5,85719,$$
+399,Guillermo's Double L Restaurant,3.0,85713,$$
+400,Jimmy's Pizzeria,4.0,85750,$$
+401,Mariscos El Bochas,4.0,85706,?
+402,No Anchovies,4.0,85719,$
+403,Martin's Comida Chingona,4.0,85707,$$
+404,Maico,4.5,85713,$
+405,Mr. Baja Fish,4.0,85705,$
+406,Nate's Metro Deli,4.5,85715,?
+407,Signature Grill,3.5,85745,$$$
+408,Nur  Market & Restaurant,4.5,85716,$$
+409,India Oven,3.5,85719,$$
+410,Shogun Japanese Restaurant & Sushi Bar,3.5,85704,$$
+411,Monster Sonoran Hot Dogs,3.5,85745,?
+412,Fonda La Hermanita,5.0,85701,?
+413,Cascade Lounge at Loews Ventana Canyon,3.5,85750,?
+414,Red Garter Saloon,4.0,85716,$
+415,Fat Noodle,3.0,85719,$$
+416,El Pacotote,5.0,85711,?
+417,BK Tacos,4.0,85706,$$
+418,Sabino's Pool Bar & Grill,4.0,85718,$$$
+419,Sauce Pizza & Wine,4.0,85719,$$
+420,Casa Molina,3.0,85712,$$
+421,Terraza Garden Patio & Lounge,3.5,85718,$$
+422,Monterey Court,3.5,85705,$$
+423,Jimmy's Pita & Poke,4.0,85719,$
+424,Trident Pizza Pub,3.5,85719,$$
+425,4th Avenue Delicatessen,4.5,85705,$
+426,Habanero’s,3.5,85715,?
+427,LongHorn Steakhouse,3.0,85711,$$
+428,Ciao Down,4.5,85641,?
+429,Tanias 33 Mexican Food,4.0,85745,$
+430,The Taco Shop Company,3.5,85719,$
+431,La Parrilla Suiza,3.0,85712,$$
+432,China Phoenix Restaurant,3.5,85704,$$
+433,Whiskey Roads,3.0,85741,$$
+434,Rosa's Mexican Food Restaurant,3.5,85719,$$
+435,Tony's Italian Deli,3.5,85711,$
+436,El Sinaloense Hot Dog Cart,4.5,85712,$
+437,Raising Cane's,3.5,85710,$
+438,ChickeNuevo,4.0,85716,$
+439,Gigi's Mexican Peruvian Fusion,4.0,,$
+440,Cheba Hut,3.5,85719,$
+441,Sinbad's,3.5,85719,$$
+442,Famous Dave's Bar-B-Que,3.0,85716,$$
+443,El Merendero,4.0,85706,$
+444,Batch Cafe & Bar,3.5,85701,$$
+445,Don Pedro's Peruvian Bistro,3.5,85714,$$
+446,Tucson Fat Noodle,3.5,85702,$
+447,The Dinner Detective,5.0,85701,?
+448,Old Peking,3.0,85716,$$
+449,MOD Pizza,4.5,85710,$$
+450,Urban Fresh,5.0,85701,$
+451,Jason's Mexican Food,4.0,85741,?
+452,Bobo's Restaurant,4.5,85716,$
+453,Shooter's Steakhouse and Saloon,3.0,85716,$$
+454,IBT's,3.5,85705,$
+455,Alloro D.O.C.,4.0,85710,$$
+456,Nomico Healthy Dessert,3.5,85705,$
+457,Leo's,4.0,85712,$
+458,Red Robin Gourmet Burgers and Brews,3.0,32246,$$
+459,Maynards Market & Kitchen,4.0,85701,$$
+460,Ricuras de Venezuela,4.0,85701,$
+461,Eclectic Cafe,4.0,85715,$$
+462,Planet Sub,4.5,85713,?
+463,Char's Thai,3.5,85711,$$
+464,Mustache Mike's Italian Ice,5.0,85712,?
+465,Bisbee Breakfast Club,4.0,85716,$$
+466,Dao's Tai Pan's,3.5,85711,$
+467,King's Restaurant,4.0,85705,$
+468,Baja Cafe On Ina,4.5,85741,$$
+469,AJ's Fine Foods,4.0,85718,$$
+470,The Bite at American Eat,5.0,85713,?
+471,Randolph Grille,4.0,85711,$$
+472,La Placita Cafe,4.0,85712,$$
+473,Sauce Pizza & Wine,4.5,85711,$$
+474,Churasco De Brazil,4.5,85705,?
+475,Percheron,4.0,85714,$
+476,Greenheart Bakery,5.0,85718,$
+477,Cappy's Breakfast Cafe,4.5,85705,$
+478,Royal Sun Restaurant & Bar,4.0,85705,$$
+479,Francisco's De Noche,4.0,85716,$
+480,La Parrilla Suiza,3.0,85705,$$
+481,Taqueria Paceña,5.0,85705,?
+482,Brooklyn's Beer & Burgers,3.5,85714,$$
+483,Salud,3.5,85745,$$
+484,QuikTrip,4.0,85712,$
+485,Street- Taco and Beer Co.,4.5,85711,$
+486,QuikTrip,4.5,85745,$
+487,Los Ponchos Hot Dogs,4.5,85719,?
+488,QuikTrip,4.5,85718,$
+489,Core,3.5,85719,?
+490,Cody's Beef 'n Beans,3.5,85716,$$
+491,Plazita Mexico Cafe,5.0,85710,?
+492,Cattletown Steakhouse & Saloon,2.5,85706,$$
+493,Sachiko Sushi,4.0,85712,$$
+494,Zing Zing's,3.5,85719,?
+495,Chatime - Bubble Tea Cafe,3.5,85719,$
+496,Cafe A La Cart,4.5,85701,$$
+497,BZ's Pizza and Italian Kitchen,4.0,85715,$$
+498,Gold,3.5,85704,$$
+499,Dao's Tai Pan's Restaurant,3.5,85719,$$
